@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+每日单词表.xlsx
+youdao.xml
+u_log.png
+u_log.txt
+ignore_words.txt
