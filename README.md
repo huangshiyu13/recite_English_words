@@ -29,3 +29,15 @@
 
 
 
+## Citing recite_English_words
+
+If you use recite_English_words in your work, please cite us:
+
+```bibtex
+@article{huangshiyu2022recite,
+    title={Recite English Words},
+    author={Shiyu Huang},
+    year={2022},
+    howpublished={\url{https://github.com/huangshiyu13/recite_English_words}},
+}
+```
